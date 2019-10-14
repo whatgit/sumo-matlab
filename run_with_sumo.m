@@ -1,5 +1,6 @@
 %{
-MATLAB script for running with sumo-gui.
+MATLAB script for running with sumo-gui. This script subscribes to data
+from three vehicles: 'carOne', 'carTwo', and 'carThree'. 
 
 Copyright (C) 2019 Maytheewat Aramrattana <maytheewat.aramrattana@vti.se>
 
